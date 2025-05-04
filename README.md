@@ -82,11 +82,13 @@ I'm a passionate Informatics Engineering student at STIKOM Bali, eager to grow i
 </div><br>
 
 <h3 align="center">🐍 Play With Me</h3>
-
-<img src="https://raw.githubusercontent.com/made-ari/made-ari/output/snake.svg" alt="Snake animation" />
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/made-ari/made-ari/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/made-ari/made-ari/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/made-ari/made-ari/output/pacman-contribution-graph.svg">
 </picture>
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+
