@@ -1,21 +1,20 @@
-![made-ari](asset/github-header-image.png)
+![made-ari](asset/img1.jpg)
 
-# 💫 About Me:
-I'm Made Ari <br>Newbie Programmer
+<h1 align="center">👋 Hi, I'm Ari Arta!</h1><br>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/de.ary_) 
-
-# 💻 Tech Stack:
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=made-ari&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=made-ari&theme=one_dark_pro&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=made-ari&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1; padding-right: 20px;">
+    <p>
+      I'm a passionate Informatics Engineering student at STIKOM Bali,
+      eager to grow in the world of programming and technology.
+    </p>
+    <ul>
+        <li>saya suka belajar</li>
+        <li>saya suka belajar</li>
+        <li>saya suka belajar</li>
+    </ul>
+  </div>
+  <div>
+    <img src="asset/img1.jpg" width="200" alt="Ari Arta workspace" />
+  </div>
+</div>
